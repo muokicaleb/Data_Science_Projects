@@ -1,1 +1,1 @@
-This project aims to cover linear regression using google stock pricing
+This project aims to cover regression using google stock pricing
