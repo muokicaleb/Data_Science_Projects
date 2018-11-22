@@ -10,5 +10,8 @@
 		<li>
 		<h5>Fastai</h5> - learning machine learning using fastai library.
 	</li>
+		<li>
+		<h5>Airbnb</h5> - anaylsing airbnb dataset
+	</li>
 </ul>
 </p>
