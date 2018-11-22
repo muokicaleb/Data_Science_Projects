@@ -14,7 +14,7 @@
 		<h5>Airbnb</h5> - anaylsing airbnb dataset
 	</li>
 		<li>
-		<h5>NY_taxi</h5> - Aim is analysis of taxi data in New York City
+		<h5>NY_taxi</h5> - Aim is analysis of taxi data in New York City.
 	</li>	
 
 </ul>
