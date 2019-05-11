@@ -1,0 +1,1 @@
+The objective of this competition is to create a forecast model to predict the number of incoming calls that Childline Kenya will receive per hour per day.
